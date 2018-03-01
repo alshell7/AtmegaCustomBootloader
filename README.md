@@ -35,7 +35,7 @@ There were many ways to burn the bootloader, but I found them quite messy if I h
 
 5. Connect Arduino to your PC
 
-6. Upload the the sketch
+6. Upload the sketch
 
 7. To see the progress of the process 
     * Open **Serial Monitor**
